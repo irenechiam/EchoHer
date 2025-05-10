@@ -50,7 +50,7 @@ Due to time constraints during development:
 - ✅ However, backend components work end-to-end, and analysis data is generated correctly in S3
 - 📸 Below is a **placeholder mockup** from AWS Bedrock showing how results would look in the final UI:
 
-### 🖼️ UI Preview (Mockup Example)
+### 🖼️ Backend Result Preview (Mockup Example)
 
 ![Bedrock Output Sample](bedrock-example.png)
 
@@ -60,7 +60,7 @@ Due to time constraints during development:
 
 ## 🎬 Demo
 
-### ▶️ Video Demo
+### ▶️ Video Demo of Backend
 
 Watch the EchoHer pipeline in action:
 
