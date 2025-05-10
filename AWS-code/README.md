@@ -16,21 +16,21 @@ This project is a serverless AWS backend pipeline that accepts **video uploads**
 ---
 
 ## 🛠 Architecture Overview
-![Architecture Overview](architecture.png)
+![Architecture Overview](bedrock-example.png)
 
 ## 🛠 Architecture Flow
-API Gateway
-    ↓
-S3 Bucket (Video or Transcript Upload)
-    ↓
-[Event Trigger]
-    ↓
-Amazon Transcribe  ← (Only for video files)
-    ↓
-S3 Bucket (Transcripts)
-    ↓
-Lambda Function → Parses .vtt/.json, computes stats
-    ↓
-Amazon Bedrock AI → Summarizes and analyzes
-    ↓
+API Gateway  
+    ↓  
+S3 Bucket (Video or Transcript Upload)  
+    ↓  
+[Event Trigger]  
+    ↓  
+Amazon Transcribe  ← (Only for video files)  
+    ↓  
+S3 Bucket (Transcripts)  
+    ↓  
+Lambda Function → Parses .vtt/.json, computes stats  
+    ↓  
+Amazon Bedrock AI → Summarizes and analyzes  
+    ↓  
 S3 Bucket (Final Output)
