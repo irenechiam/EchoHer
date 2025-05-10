@@ -47,8 +47,8 @@ Due to time constraints during development:
 
 - ❌ The **full LLM automation pipeline** (triggering Bedrock from Lambda and parsing model output) is not finalized
 - ❌ The **frontend is not yet integrated** with the backend
-  Figma Prototype: https://www.figma.com/design/lggzUA7Xtpmp7HscID8Qbd/Women-In-AI?node-id=0-1&t=1VSyOKKhPbuMs9aI-1
-  
+  https://www.figma.com/design/lggzUA7Xtpmp7HscID8Qbd/Women-In-AI?node-id=0-1&t=1VSyOKKhPbuMs9aI-1
+
 - ✅ However, backend components work end-to-end, and analysis data is generated correctly in S3
 - 📸 Below is a **placeholder mockup** from AWS Bedrock showing how results would look in the final UI:
 
