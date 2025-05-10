@@ -64,4 +64,4 @@ Due to time constraints during development:
 
 Watch the EchoHer pipeline in action:
 
-![Watch the demo](https://drive.google.com/file/d/10eYepALmQEjFoAM7PhshEZiBCQWsIKE3/view?usp=sharing)
+![Watch the demo](https://drive.google.com/file/d/13V_OhR3zpR5_0VhU_bckuTTJWkuqv92Q/view?usp=sharing)
